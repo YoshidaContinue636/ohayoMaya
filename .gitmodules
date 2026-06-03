@@ -1,0 +1,6 @@
+[submodule "KeyframeOptimizer"]
+	path = KeyframeOptimizer
+	url = https://github.com/YoshidaContinue636/KeyframeOptimizer.git
+[submodule "ScriptLauncher"]
+	path = ScriptLauncher
+	url = https://github.com/YoshidaContinue636/ScriptLauncher.git
